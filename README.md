@@ -1,7 +1,8 @@
 Xamarin-CircularImageView
 =========================
 
-This is a Xamarin.Android-compatible port of CircularImageView by Pkmmte
+This is a Xamarin.Android-compatible port of CircularImageView by Pkmmte.
+
 See the original project here https://github.com/Pkmmte/CircularImageView
 
 
